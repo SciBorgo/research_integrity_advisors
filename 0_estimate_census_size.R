@@ -4,7 +4,7 @@
 TeachingDemos::char2seed('arsenal')
 
 # number of institutions from 0_read_institutions.R
-n_institutes = 86 # number of unis/institutes with recent NHMRC application(s) - see protocol
+n_institutes = 99 # number of unis/institutes with recent NHMRC application(s) - see protocol
 n_sim = 1000
 
 est = upper = NULL
